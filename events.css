@@ -1,0 +1,32 @@
+.blue {
+	color: blue;
+}
+
+.biggerFontSize {
+	font-size: 50px;
+}
+
+.border {
+	border: 2px solid firebrick;
+}
+
+.borderRadius {
+	border-radius: 10px;
+}
+
+.boldTxt {
+	font-weight: bolder;
+}
+
+.boldItalic {
+	font-weight: bolder;
+	font-style: italic;
+}
+
+.btnDisplayBlock {
+	display: block;
+}
+
+.none {
+	display: none;
+}
